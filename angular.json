@@ -112,5 +112,7 @@
             }
         }
     },
-    "defaultProject": "personal-portfolio"
+    "cli": {
+      "analytics": false
+    }
 }
